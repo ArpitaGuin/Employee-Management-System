@@ -8,6 +8,6 @@ This repository consists of Java Program for Employee Management System. In this
 
 (3) Updating User
 
-(4) Viewing details of User  
+(4) Viewing User details
 
 The Program is completely based on OOPs concept.
