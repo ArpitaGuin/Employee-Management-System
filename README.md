@@ -1,6 +1,6 @@
 # Employee Management System
 
-This repository consists of Java Program for Employee Management System. In this repository I have created a TUI program for Employee Management System which consists of 4 different operations.
+This repository consists of Java Program for Employee Management System. In this repository, a TUI program has been created for Employee Management System which consists of 4 different operations.
 
 (1) Adding User
 
